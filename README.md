@@ -7,7 +7,7 @@ A project to use Bootstrap.
 
 - Used grid to arrange the elements and images on the page.
 - Commented HTML and CSS files.
-- Published at [https://franciswilkinson.github.io/Bootstrap-Portfolio/](linkurlhttps://franciswilkinson.github.io/Bootstrap-Portfolio/)
+- Published at [(https://franciswilkinson.github.io/Bootstrap-Portfolio/)](linkurlhttps://franciswilkinson.github.io/Bootstrap-Portfolio/)
 
 ![Francis Wilkinson's Bootstrap Portfolio](https://github.com/franciswilkinson/Bootstrap-Portfolio/blob/main/images/franciswilkinson.jpeg "Bootstrap Portfolio")
 

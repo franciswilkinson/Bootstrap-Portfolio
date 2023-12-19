@@ -22,7 +22,7 @@ To use this webpage, you can look around to see how it is built using Bootstrap.
 
 ## Credits
 
-N/A
+Some blocks of code have been reused and customised from the bootcamp's week three practice exercises.
 
 ## License
 

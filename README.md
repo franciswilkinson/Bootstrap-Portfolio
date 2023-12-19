@@ -9,7 +9,7 @@ A project to use Bootstrap.
 - Commented HTML and CSS files.
 - Published at [franciswilkinson.github.io/Bootstrap-Portfolio/](linkurlhttps://franciswilkinson.github.io/Bootstrap-Portfolio/)
 
-![Francis Wilkinson's Bootstrap Portfolio](https://github.com/franciswilkinson/Bootstrap-Portfolio/blob/main/images/franciswilkinson.github.io.jpeg "Bootstrap Portfolio")
+![Francis Wilkinson's Bootstrap Portfolio](https://github.com/franciswilkinson/Bootstrap-Portfolio/blob/main/images/franciswilkinson.jpeg "Bootstrap Portfolio")
 
 
 ## Installation
